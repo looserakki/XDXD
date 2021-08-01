@@ -8,7 +8,7 @@ if os.path.exists("local.env"):
     load_dotenv("local.env")
 
 que = {}
-SESSION_NAME = getenv("SESSION_NAME", "AQBEtz_Lx37h_utho4SrArASwUUOtuqEP7dYmO5JQvApu5fm_rQXDFAHavHikjOVU4SGM_NDl6mN6qzPnVdA4jCAMClVoYH6aR-6HBJtk9SOEpyyuTwBCuyM38Xe_k3xefJikuI9CL5ErhauUI4O0n8zBlrmxboj25kb-_rgFAZdMBNJYPuIZN7L5lxXmakohC09htThTebVnVHWeOCjj4eB1vNYO8cBQlxSZYhXDlbvflfEh8msg-FxmVyBf5mltQAUsCnT9SlFFRwQ-FmfkSdW5GCwNc2AUbq3oEYp_k2-CbsiyRrt3p2FBeRCRyaPu8zJvCB78zYzPx87GBEYNqVrdCqCJAA")
+SESSION_NAME = getenv("SESSION_NAME", "AQAAjg_nngvg5JUHI_tIjTIFl74Vgexp4PmWGP7iu9SwbWBjTlRzVXdpLyQtooGsI3NXl50JstWuu9VRr8oJT7Keh2giGTwsweIgPt-8-pZL1ik6sXNXatDbXIOlNe3mpMrPwqTiqwU9UgRXtZiuOsqUI5F86aIagXl03Pw-opGA6PzXd3mjFa-9sE_5kxI5DDtAvPRZ0Dshth744zKE0yi8r1yHfavLad7p-z27qj64K2kQZklTjbkjjRip3dR8vJZBqBqXHJpZaYG5K-pLrR0ZFh0Mx8UCx7aaaDL-Y_cdBcLqk3t8DbQGJZsqobjkpOxjTsU7fYzXGTOtSf5Bm1YvdCqCJAA")
 BOT_TOKEN = getenv("BOT_TOKEN", "1909102195:AAEbJIvqPKShOjvJat9EFMuPm3Dc8DGfg34")
 BOT_NAME = getenv("BOT_NAME", "SHERSID")
 UPDATES_CHANNEL = getenv("UPDATES_CHANNEL", "DaisyXupdates")
